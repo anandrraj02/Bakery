@@ -121,7 +121,7 @@ footer a i{
     font-size: 30px;
     color: antiquewhite;
     padding: 5px;
-    margin: 5px;
+    margin: 10px;
     transition: 0.3s;
 }
 #contact{
@@ -143,7 +143,7 @@ footer a i:hover{
 }
 footer span{
     background-color: rgb(126, 147, 89);
-    border-radius: 5px;
+    border-radius: 30px;
     padding: 5px;
     font-style: italic;
     color: black;
